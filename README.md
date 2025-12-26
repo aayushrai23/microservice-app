@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# microservice-app
-=======
+
 # Kubernetes Microservice Flask Application
 
 This is a microservice application built using Flask and deployed on Kubernetes. It is designed to demonstrate how to build and deploy microservices on a Kubernetes cluster.
@@ -44,4 +42,4 @@ If you'd like to contribute to this project, please fork the repository and crea
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md]
->>>>>>> b0f7c59 (Added readme)
+
